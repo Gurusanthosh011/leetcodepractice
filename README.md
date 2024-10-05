@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0136-single-number) |
 ## Hash Table
@@ -34,9 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
