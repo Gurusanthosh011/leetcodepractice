@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
