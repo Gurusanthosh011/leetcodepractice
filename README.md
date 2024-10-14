@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
