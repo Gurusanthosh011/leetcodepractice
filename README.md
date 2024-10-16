@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
