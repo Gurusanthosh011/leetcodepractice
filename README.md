@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0344-reverse-string) |
 ## Memoization
 |  |
