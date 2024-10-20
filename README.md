@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0205-isomorphic-strings) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
