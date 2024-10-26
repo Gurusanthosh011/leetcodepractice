@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
