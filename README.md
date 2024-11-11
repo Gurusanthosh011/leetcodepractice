@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
