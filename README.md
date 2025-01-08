@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
 | [1524-string-matching-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1524-string-matching-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
