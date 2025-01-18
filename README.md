@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2580-circular-sentence) |
+| [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
