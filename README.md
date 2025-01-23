@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
+| [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
+| [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
 ## Simulation
 |  |
 | ------- |
@@ -194,4 +196,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
