@@ -17,7 +17,7 @@ public class Solution {
         while(current!=null){
             if(h1.containsKey(current)){
                 int val=h1.get(current);
-               System.out.print("tail connects to node index "+val);
+               System.out.print("tail connects to node index ");
                return current;
 
             }
