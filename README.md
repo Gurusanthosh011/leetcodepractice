@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Depth-First Search
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
