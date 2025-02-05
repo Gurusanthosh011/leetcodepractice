@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
 |  |
 | ------- |
