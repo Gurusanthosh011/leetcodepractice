@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
+| [3447-clear-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3447-clear-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3447-clear-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |
