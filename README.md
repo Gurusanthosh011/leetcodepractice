@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2792-neighboring-bitwise-xor](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2792-neighboring-bitwise-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
