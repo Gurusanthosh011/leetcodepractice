@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3429-special-array-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
@@ -276,4 +278,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
