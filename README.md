@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2551-apply-operations-to-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2551-apply-operations-to-an-array) |
 | [2792-neighboring-bitwise-xor](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2792-neighboring-bitwise-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
+| [2551-apply-operations-to-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3447-clear-digits) |
 ## Number Theory
