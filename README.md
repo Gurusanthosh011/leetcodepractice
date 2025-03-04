@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2107-find-unique-binary-string) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3447-clear-digits) |
 ## Depth-First Search
