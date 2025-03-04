@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1364-tuple-with-same-product) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2107-find-unique-binary-string) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
 |  |
