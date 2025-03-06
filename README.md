@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2792-neighboring-bitwise-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
+| [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0342-power-of-four) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
+| [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
