@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0342-power-of-four) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2610-closest-prime-numbers-in-range) |
 ## String
 |  |
 | ------- |
