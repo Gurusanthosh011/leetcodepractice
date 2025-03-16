@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1031-add-to-array-form-of-integer](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1031-add-to-array-form-of-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0342-power-of-four) |
+| [1031-add-to-array-form-of-integer](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1031-add-to-array-form-of-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
