@@ -3,8 +3,8 @@ class Solution {
         int x=start^goal;
         int count=0;
     while(x>0){
-        count+=(x&1);
-        x>>=1;
+       x=x&(x-1);
+       count+=1;
 
     }
     return count;
