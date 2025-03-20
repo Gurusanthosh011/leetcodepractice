@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0136-single-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0231-power-of-two) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2107-find-unique-binary-string) |
 ## Sliding Window
 |  |
