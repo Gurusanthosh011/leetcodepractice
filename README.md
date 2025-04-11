@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2610-closest-prime-numbers-in-range) |
+| [2998-count-symmetric-integers](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2998-count-symmetric-integers) |
 ## Bucket Sort
 |  |
 | ------- |
