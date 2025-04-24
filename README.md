@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3463-alternating-groups-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3483-alternating-groups-ii) |
