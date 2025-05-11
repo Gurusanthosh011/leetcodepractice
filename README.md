@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0948-sort-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0948-sort-an-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1031-add-to-array-form-of-integer) |
+| [1293-three-consecutive-odds](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
