@@ -20,7 +20,7 @@ class Solution {
        for(int i=index;i<nums.length;i++){
          nums[i]=2;
        }
-       System.out.print(nums);
+      
         
     }
 }
