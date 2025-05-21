@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0287-find-the-duplicate-number) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1396-count-servers-that-communicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
