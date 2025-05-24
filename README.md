@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3321-type-of-triangle) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2825-minimize-string-length) |
+| [3194-find-words-containing-character](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3447-clear-digits) |
 ## Memoization
