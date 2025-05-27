@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
@@ -479,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0543-diameter-of-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
