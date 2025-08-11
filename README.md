@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2529-range-product-queries-of-powers](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2529-range-product-queries-of-powers](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2529-range-product-queries-of-powers) |
 | [2792-neighboring-bitwise-xor](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2792-neighboring-bitwise-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2529-range-product-queries-of-powers](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Rolling Hash
 |  |
