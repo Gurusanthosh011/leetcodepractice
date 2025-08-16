@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0342-power-of-four) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1031-add-to-array-form-of-integer) |
+| [1448-maximum-69-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/0611-valid-triangle-number) |
+| [1448-maximum-69-number](https://github.com/Gurusanthosh011/leetcodepractice/tree/master/1448-maximum-69-number) |
 ## Divide and Conquer
 |  |
 | ------- |
